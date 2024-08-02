@@ -1,3 +1,3 @@
 (() => {
-  console.log("Hello i am iffie of main  fn");
+  console.log("Hello i am iffie fn");
 })();
